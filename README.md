@@ -1,7 +1,7 @@
 # TicTacToe
-## Play here: 
-(https://tictactoe-angular-393bf.web.app/)
+## Play here: (https://tictactoe-angular-393bf.web.app/)
 <br>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
 ## Development server
